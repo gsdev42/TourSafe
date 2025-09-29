@@ -1,45 +1,49 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
+import React, { useState } from 'react';
+import { SafeAreaView, StatusBar } from 'react-native';
+import DashboardScreen from './src/screens/DashboardScreen';
+import TouristIdScreen from './src/screens/TouristIdScreen';
+import SOSScreen from './src/screens/SOSScreen';
+import BottomNavigation from './src/components/BottomNavigation';
+import { commonStyles } from './src/styles/commonStyles';
 
-import { NewAppScreen } from '@react-native/new-app-screen';
-import { StatusBar, StyleSheet, useColorScheme, View } from 'react-native';
-import {
-  SafeAreaProvider,
-  useSafeAreaInsets,
-} from 'react-native-safe-area-context';
+export default function App() {
+  const [currentScreen, setCurrentScreen] = useState('dashboard');
 
-function App() {
-  const isDarkMode = useColorScheme() === 'dark';
+  const handleNavigation = (screenId) => {
+    if (screenId === 'dashboard') {
+      setCurrentScreen('dashboard');
+    } else if (screenId === 'sos') {
+      setCurrentScreen('sos');
+    } else {
+      alert(`${screenId.toUpperCase()} - Coming soon!`);
+    }
+  };
+
+  const renderScreen = () => {
+    switch (currentScreen) {
+      case 'dashboard':
+        return <DashboardScreen onNavigateToTouristId={() => setCurrentScreen('touristId')} />;
+      case 'touristId':
+        return <TouristIdScreen onBack={() => setCurrentScreen('dashboard')} />;
+      case 'sos':
+        return <SOSScreen onBack={() => setCurrentScreen('dashboard')} />;
+      default:
+        return <DashboardScreen onNavigateToTouristId={() => setCurrentScreen('touristId')} />;
+    }
+  };
 
   return (
-    <SafeAreaProvider>
-      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      <AppContent />
-    </SafeAreaProvider>
-  );
-}
+    <SafeAreaView style={commonStyles.container}>
+      <StatusBar barStyle="light-content" />
 
-function AppContent() {
-  const safeAreaInsets = useSafeAreaInsets();
+      {/* Render Current Screen */}
+      {renderScreen()}
 
-  return (
-    <View style={styles.container}>
-      <NewAppScreen
-        templateFileName="App.tsx"
-        safeAreaInsets={safeAreaInsets}
+      {/* Bottom Navigation */}
+      <BottomNavigation
+        activeScreen={currentScreen === 'touristId' || currentScreen === 'sos' ? 'dashboard' : currentScreen}
+        onNavigate={handleNavigation}
       />
-    </View>
+    </SafeAreaView>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-  },
-});
-
-export default App;
