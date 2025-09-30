@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { SafeAreaView, StatusBar } from 'react-native';
+import { StatusBar } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import DashboardScreen from './src/screens/DashboardScreen';
 import TouristIdScreen from './src/screens/TouristIdScreen';
 import SOSScreen from './src/screens/SOSScreen';

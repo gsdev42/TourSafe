@@ -1,7 +1,7 @@
 // src/screens/SOSScreen.js
 import React, { useState, useEffect, useRef } from 'react';
 import { View, Text, ScrollView, TouchableOpacity, StyleSheet, Animated } from 'react-native';
-import { Ionicons } from '@expo/vector-icons';
+import Icon from 'react-native-vector-icons/Ionicons';
 import { commonStyles } from '../styles/commonStyles';
 import COLORS from '../constants/colors';
 
@@ -72,11 +72,11 @@ const SOSScreen = ({ onBack }) => {
         {/* Header */}
         <View style={styles.header}>
           <TouchableOpacity style={commonStyles.backButton} onPress={onBack}>
-            <Ionicons name="arrow-back" size={24} color={COLORS.white} />
+            <Icon name="arrow-back" size={24} color={COLORS.white} />
           </TouchableOpacity>
           <View style={styles.headerIcons}>
-            <Ionicons name="shield-checkmark" size={24} color={COLORS.white} />
-            <Ionicons name="notifications" size={24} color={COLORS.white} />
+            <Icon name="shield-checkmark" size={24} color={COLORS.white} />
+            <Icon name="notifications" size={24} color={COLORS.white} />
           </View>
         </View>
 
@@ -111,7 +111,7 @@ const SOSScreen = ({ onBack }) => {
               }
             ]}
           >
-            <Ionicons name="radio-button-on" size={50} color={COLORS.white} />
+            <Icon name="radio-button-on" size={50} color={COLORS.white} />
           </Animated.View>
         </TouchableOpacity>
 
@@ -120,7 +120,7 @@ const SOSScreen = ({ onBack }) => {
           {/* Location Sharing */}
           <View style={styles.featureCard}>
             <View style={styles.featureIcon}>
-              <Ionicons name="location" size={30} color={COLORS.danger} />
+              <Icon name="location" size={30} color={COLORS.danger} />
             </View>
             <Text style={styles.featureTitle}>Location{'\n'}Sharing</Text>
             <TouchableOpacity
@@ -134,7 +134,7 @@ const SOSScreen = ({ onBack }) => {
           {/* Geo-Fencing */}
           <View style={styles.featureCard}>
             <View style={styles.featureIcon}>
-              <Ionicons name="pin" size={30} color={COLORS.white} />
+              <Icon name="pin" size={30} color={COLORS.white} />
             </View>
             <Text style={styles.featureTitle}>Geo-{'\n'}fencing</Text>
             <TouchableOpacity
@@ -148,7 +148,7 @@ const SOSScreen = ({ onBack }) => {
           {/* Inactivity Sensing */}
           <View style={styles.featureCard}>
             <View style={styles.featureIcon}>
-              <Ionicons name="chatbox-ellipses" size={30} color={COLORS.danger} />
+              <Icon name="chatbox-ellipses" size={30} color={COLORS.danger} />
             </View>
             <Text style={styles.featureTitle}>Inactivity{'\n'}Sensing</Text>
             <TouchableOpacity
@@ -167,7 +167,7 @@ const SOSScreen = ({ onBack }) => {
             onPress={handleAmbulancePress}
             activeOpacity={0.7}
           >
-            <Ionicons name="medical" size={20} color={COLORS.danger} />
+            <Icon name="medical" size={20} color={COLORS.danger} />
             <Text style={styles.emergencyText}>Ambulance: 112</Text>
           </TouchableOpacity>
 
@@ -176,7 +176,7 @@ const SOSScreen = ({ onBack }) => {
             onPress={handlePolicePress}
             activeOpacity={0.7}
           >
-            <Ionicons name="shield" size={20} color={COLORS.danger} />
+            <Icon name="shield" size={20} color={COLORS.danger} />
             <Text style={styles.emergencyText}>Police: 112</Text>
           </TouchableOpacity>
         </View>

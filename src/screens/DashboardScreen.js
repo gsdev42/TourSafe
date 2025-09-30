@@ -1,7 +1,7 @@
 // src/screens/DashboardScreen.js
 import React from 'react';
 import { View, Text, ScrollView, TouchableOpacity } from 'react-native';
-import { Ionicons } from '@expo/vector-icons';
+import Icon from 'react-native-vector-icons/Ionicons';
 import ActionCard from '../components/ActionCard';
 import dashboardStyles from '../styles/dashboardStyles';
 import { commonStyles } from '../styles/commonStyles';
@@ -24,15 +24,15 @@ const DashboardScreen = ({ onNavigateToTouristId }) => {
         {/* Top Bar with Logo and Icons */}
         <View style={dashboardStyles.topBar}>
           <View style={dashboardStyles.logoContainer}>
-            <Ionicons name="shield-checkmark" size={24} color={COLORS.white} />
+            <Icon name="shield-checkmark" size={24} color={COLORS.white} />
             <Text style={dashboardStyles.logoText}>SafeTrip</Text>
           </View>
           <View style={dashboardStyles.iconGroup}>
             <TouchableOpacity style={commonStyles.iconButton}>
-              <Ionicons name="notifications" size={24} color={COLORS.white} />
+              <Icon name="notifications" size={24} color={COLORS.white} />
             </TouchableOpacity>
             <TouchableOpacity style={commonStyles.iconButton}>
-              <Ionicons name="menu" size={24} color={COLORS.white} />
+              <Icon name="menu" size={24} color={COLORS.white} />
             </TouchableOpacity>
           </View>
         </View>
@@ -67,7 +67,7 @@ const DashboardScreen = ({ onNavigateToTouristId }) => {
 
         {/* Ask Damodar Button */}
         <TouchableOpacity style={dashboardStyles.damodarButton}>
-          <Ionicons name="chatbubbles" size={24} color={COLORS.white} />
+          <Icon name="chatbubbles" size={24} color={COLORS.white} />
           <Text style={dashboardStyles.damodarText}>Ask Damodar (our AI chatbot)</Text>
         </TouchableOpacity>
 
@@ -77,9 +77,9 @@ const DashboardScreen = ({ onNavigateToTouristId }) => {
             Safety Score: {safetyScore}/10
           </Text>
           <View style={dashboardStyles.mapPlaceholder}>
-            <Ionicons name="map" size={100} color="#555" />
+            <Icon name="map" size={100} color="#555" />
             <View style={dashboardStyles.mapMarker}>
-              <Ionicons name="location" size={30} color={COLORS.danger} />
+              <Icon name="location" size={30} color={COLORS.danger} />
             </View>
           </View>
         </View>
@@ -87,7 +87,7 @@ const DashboardScreen = ({ onNavigateToTouristId }) => {
         {/* Geo Fencing Alert */}
         <View style={dashboardStyles.alertCard}>
           <View style={dashboardStyles.alertHeader}>
-            <Ionicons name="shield-outline" size={24} color={COLORS.danger} />
+            <Icon name="shield-outline" size={24} color={COLORS.danger} />
             <Text style={dashboardStyles.alertTitle}>GEO FENCING ALERTS</Text>
           </View>
           <Text style={dashboardStyles.alertText}>
