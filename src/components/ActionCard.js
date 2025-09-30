@@ -1,7 +1,7 @@
 // src/components/ActionCard.js
 import React from 'react';
 import { TouchableOpacity, Text, View, StyleSheet } from 'react-native';
-import { Ionicons } from '@expo/vector-icons';
+import Icon from 'react-native-vector-icons/Ionicons';
 import COLORS from '../constants/colors';
 
 const ActionCard = ({ title, iconName, iconColor, onPress }) => {
@@ -9,7 +9,7 @@ const ActionCard = ({ title, iconName, iconColor, onPress }) => {
     <TouchableOpacity style={styles.actionCard} onPress={onPress}>
       <Text style={styles.actionCardTitle}>{title}</Text>
       <View style={styles.actionIconContainer}>
-        <Ionicons name={iconName} size={40} color={iconColor} />
+        <Icon name={iconName} size={40} color={iconColor} />
       </View>
     </TouchableOpacity>
   );

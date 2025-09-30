@@ -1,7 +1,7 @@
 // src/screens/TouristIdScreen.js
 import React from 'react';
 import { View, Text, ScrollView, TouchableOpacity } from 'react-native';
-import { Ionicons } from '@expo/vector-icons';
+import Icon from 'react-native-vector-icons/Ionicons';
 import DocumentItem from '../components/DocumentItem';
 import touristIdStyles from '../styles/touristIdStyles';
 import { commonStyles } from '../styles/commonStyles';
@@ -14,10 +14,10 @@ const TouristIdScreen = ({ onBack }) => {
         {/* Header */}
         <View style={touristIdStyles.header}>
           <TouchableOpacity style={commonStyles.backButton} onPress={onBack}>
-            <Ionicons name="arrow-back" size={24} color={COLORS.white} />
+            <Icon name="arrow-back" size={24} color={COLORS.white} />
           </TouchableOpacity>
           <View style={touristIdStyles.logo}>
-            <Ionicons name="shield-checkmark" size={28} color={COLORS.primary} />
+            <Icon name="shield-checkmark" size={28} color={COLORS.primary} />
             <Text style={touristIdStyles.logoText}>SafeTrip</Text>
           </View>
         </View>
@@ -38,26 +38,26 @@ const TouristIdScreen = ({ onBack }) => {
               <Text style={touristIdStyles.kycLabelText}>KYC</Text>
             </View>
             <View style={touristIdStyles.kycMainIcon}>
-              <Ionicons name="person" size={40} color={COLORS.white} />
+              <Icon name="person" size={40} color={COLORS.white} />
             </View>
             <View style={touristIdStyles.kycIconGrid}>
               <View style={touristIdStyles.kycSmallIcon}>
-                <Ionicons name="document-text" size={20} color={COLORS.textDark} />
+                <Icon name="document-text" size={20} color={COLORS.textDark} />
               </View>
               <View style={touristIdStyles.kycSmallIcon}>
-                <Ionicons name="key" size={20} color={COLORS.textDark} />
+                <Icon name="key" size={20} color={COLORS.textDark} />
               </View>
               <View style={touristIdStyles.kycSmallIcon}>
-                <Ionicons name="finger-print" size={20} color={COLORS.textDark} />
+                <Icon name="finger-print" size={20} color={COLORS.textDark} />
               </View>
               <View style={touristIdStyles.kycSmallIcon}>
-                <Ionicons name="document" size={20} color={COLORS.textDark} />
+                <Icon name="document" size={20} color={COLORS.textDark} />
               </View>
               <View style={touristIdStyles.kycSmallIcon}>
-                <Ionicons name="skull" size={20} color={COLORS.textDark} />
+                <Icon name="skull" size={20} color={COLORS.textDark} />
               </View>
               <View style={touristIdStyles.kycSmallIcon}>
-                <Ionicons name="shield" size={20} color={COLORS.textDark} />
+                <Icon name="shield" size={20} color={COLORS.textDark} />
               </View>
             </View>
             <View style={touristIdStyles.handPointer}>

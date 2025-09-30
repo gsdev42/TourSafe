@@ -1,7 +1,7 @@
 // src/components/DocumentItem.js
 import React from 'react';
 import { TouchableOpacity, Text, View, StyleSheet } from 'react-native';
-import { Ionicons } from '@expo/vector-icons';
+import Icon from 'react-native-vector-icons/Ionicons';
 import COLORS from '../constants/colors';
 
 const DocumentItem = ({ iconName, iconColor, title, value, onPress }) => {
@@ -11,12 +11,12 @@ const DocumentItem = ({ iconName, iconColor, title, value, onPress }) => {
       onPress={onPress}
       activeOpacity={0.7}
     >
-      <Ionicons name={iconName} size={20} color={iconColor} />
+      <Icon name={iconName} size={20} color={iconColor} />
       <View style={styles.documentTextContainer}>
         <Text style={styles.documentTitle}>{title}</Text>
         <Text style={styles.documentValue}>{value}</Text>
       </View>
-      <Ionicons name="chevron-forward" size={20} color={COLORS.textDark} />
+      <Icon name="chevron-forward" size={20} color={COLORS.textDark} />
     </TouchableOpacity>
   );
 };
