@@ -1,0 +1,4669 @@
+[
+  {
+    "state_name": "Andaman And Nicobar Islands",
+    "state_code": 35,
+    "district_name": "Nicobars",
+    "district_code": 603,
+    "safety_score": 10,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 10,
+      "harassmentCrimes": 10,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Andaman And Nicobar Islands",
+    "state_code": 35,
+    "district_name": "North And Middle Andaman",
+    "district_code": 632,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.8,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Andaman And Nicobar Islands",
+    "state_code": 35,
+    "district_name": "South Andamans",
+    "district_code": 602,
+    "safety_score": 9.4,
+    "breakdown": {
+      "violentCrimes": 9.1,
+      "theftCrimes": 9.8,
+      "harassmentCrimes": 9.3,
+      "publicSafety": 9.3
+    }
+  },
+  {
+    "state_name": "Andhra Pradesh",
+    "state_code": 28,
+    "district_name": "Ananthapuramu",
+    "district_code": 502,
+    "safety_score": 2.8,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 0,
+      "harassmentCrimes": 3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Andhra Pradesh",
+    "state_code": 28,
+    "district_name": "Bapatla",
+    "district_code": 750,
+    "safety_score": 3.9,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 6,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Andhra Pradesh",
+    "state_code": 28,
+    "district_name": "Chittoor",
+    "district_code": 503,
+    "safety_score": 0.9,
+    "breakdown": {
+      "violentCrimes": 3.7,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Andhra Pradesh",
+    "state_code": 28,
+    "district_name": "East Godavari",
+    "district_code": 505,
+    "safety_score": 1.6,
+    "breakdown": {
+      "violentCrimes": 6.4,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Andhra Pradesh",
+    "state_code": 28,
+    "district_name": "Guntur",
+    "district_code": 506,
+    "safety_score": 1.5,
+    "breakdown": {
+      "violentCrimes": 6,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Andhra Pradesh",
+    "state_code": 28,
+    "district_name": "Kurnool",
+    "district_code": 511,
+    "safety_score": 1.7,
+    "breakdown": {
+      "violentCrimes": 4.6,
+      "theftCrimes": 1.7,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Andhra Pradesh",
+    "state_code": 28,
+    "district_name": "Sri Potti Sriramulu Nellore",
+    "district_code": 515,
+    "safety_score": 3.2,
+    "breakdown": {
+      "violentCrimes": 7.1,
+      "theftCrimes": 3.5,
+      "harassmentCrimes": 1.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Andhra Pradesh",
+    "state_code": 28,
+    "district_name": "West Godavari",
+    "district_code": 523,
+    "safety_score": 3.4,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 4.2,
+      "harassmentCrimes": 0,
+      "publicSafety": 0.1
+    }
+  },
+  {
+    "state_name": "Andhra Pradesh",
+    "state_code": 28,
+    "district_name": "Y.S.R.",
+    "district_code": 504,
+    "safety_score": 3.8,
+    "breakdown": {
+      "violentCrimes": 7.3,
+      "theftCrimes": 5.6,
+      "harassmentCrimes": 1.2,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Anjaw",
+    "district_code": 628,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Changlang",
+    "district_code": 229,
+    "safety_score": 9.4,
+    "breakdown": {
+      "violentCrimes": 9.5,
+      "theftCrimes": 9,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 9.5
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Dibang Valley",
+    "district_code": 230,
+    "safety_score": 10,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 10,
+      "harassmentCrimes": 10,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "East Kameng",
+    "district_code": 231,
+    "safety_score": 9.8,
+    "breakdown": {
+      "violentCrimes": 9.8,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.7
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Kamle",
+    "district_code": 718,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 10,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Leparada",
+    "district_code": 724,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.8
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Longding",
+    "district_code": 666,
+    "safety_score": 9.8,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 9.8,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Lower Subansiri",
+    "district_code": 236,
+    "safety_score": 10,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Pakke Kessang",
+    "district_code": 723,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Papum Pare",
+    "district_code": 237,
+    "safety_score": 9.8,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.5,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Siang",
+    "district_code": 679,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Tawang",
+    "district_code": 238,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.7
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "Upper Subansiri",
+    "district_code": 241,
+    "safety_score": 9.6,
+    "breakdown": {
+      "violentCrimes": 9.5,
+      "theftCrimes": 9.7,
+      "harassmentCrimes": 9.5,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "state_code": 12,
+    "district_name": "West Kameng",
+    "district_code": 242,
+    "safety_score": 9.8,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.7,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.7
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Biswanath",
+    "district_code": 705,
+    "safety_score": 8.8,
+    "breakdown": {
+      "violentCrimes": 8,
+      "theftCrimes": 9.1,
+      "harassmentCrimes": 8.9,
+      "publicSafety": 9
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Bongaigaon",
+    "district_code": 281,
+    "safety_score": 2.8,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 1.8,
+      "harassmentCrimes": 9,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Cachar",
+    "district_code": 282,
+    "safety_score": 1,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 4.1,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Chirang",
+    "district_code": 612,
+    "safety_score": 8,
+    "breakdown": {
+      "violentCrimes": 8,
+      "theftCrimes": 8.4,
+      "harassmentCrimes": 9.2,
+      "publicSafety": 6.3
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Dhemaji",
+    "district_code": 284,
+    "safety_score": 6.4,
+    "breakdown": {
+      "violentCrimes": 4.7,
+      "theftCrimes": 7.9,
+      "harassmentCrimes": 6.2,
+      "publicSafety": 6.7
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Dhubri",
+    "district_code": 285,
+    "safety_score": 0,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Dibrugarh",
+    "district_code": 286,
+    "safety_score": 2.2,
+    "breakdown": {
+      "violentCrimes": 1.2,
+      "theftCrimes": 0,
+      "harassmentCrimes": 7.7,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Golaghat",
+    "district_code": 288,
+    "safety_score": 9,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 8.8,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 8.7
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Jorhat",
+    "district_code": 290,
+    "safety_score": 2.1,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 3.3,
+      "harassmentCrimes": 4.4,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Kamrup",
+    "district_code": 291,
+    "safety_score": 0.3,
+    "breakdown": {
+      "violentCrimes": 0.9,
+      "theftCrimes": 0.2,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Kamrup Metro",
+    "district_code": 618,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.8,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.8
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Karimganj",
+    "district_code": 293,
+    "safety_score": 0.7,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 1.3,
+      "harassmentCrimes": 1.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Kokrajhar",
+    "district_code": 294,
+    "safety_score": 6.9,
+    "breakdown": {
+      "violentCrimes": 8.5,
+      "theftCrimes": 6.7,
+      "harassmentCrimes": 6.2,
+      "publicSafety": 6
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Majuli",
+    "district_code": 706,
+    "safety_score": 9.6,
+    "breakdown": {
+      "violentCrimes": 9.4,
+      "theftCrimes": 9.8,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 9.6
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Nalbari",
+    "district_code": 298,
+    "safety_score": 5.9,
+    "breakdown": {
+      "violentCrimes": 5.4,
+      "theftCrimes": 6.2,
+      "harassmentCrimes": 4.9,
+      "publicSafety": 7.4
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Sivasagar",
+    "district_code": 300,
+    "safety_score": 0.7,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 2.9,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Sonitpur",
+    "district_code": 301,
+    "safety_score": 3.4,
+    "breakdown": {
+      "violentCrimes": 7.4,
+      "theftCrimes": 5.2,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Assam",
+    "state_code": 18,
+    "district_name": "Udalguri",
+    "district_code": 617,
+    "safety_score": 7.8,
+    "breakdown": {
+      "violentCrimes": 6.2,
+      "theftCrimes": 7.7,
+      "harassmentCrimes": 8.2,
+      "publicSafety": 9.3
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Aurangabad",
+    "district_code": 189,
+    "safety_score": 7.7,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 5.6,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 7.4
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Banka",
+    "district_code": 190,
+    "safety_score": 7.2,
+    "breakdown": {
+      "violentCrimes": 6.4,
+      "theftCrimes": 5.6,
+      "harassmentCrimes": 10,
+      "publicSafety": 7.1
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Bhagalpur",
+    "district_code": 192,
+    "safety_score": 6.8,
+    "breakdown": {
+      "violentCrimes": 6.7,
+      "theftCrimes": 4.4,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 7.3
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Bhojpur",
+    "district_code": 193,
+    "safety_score": 2.4,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Jehanabad",
+    "district_code": 199,
+    "safety_score": 7.3,
+    "breakdown": {
+      "violentCrimes": 8,
+      "theftCrimes": 6.1,
+      "harassmentCrimes": 10,
+      "publicSafety": 4.8
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Kaimur (Bhabua)",
+    "district_code": 200,
+    "safety_score": 6.7,
+    "breakdown": {
+      "violentCrimes": 7.4,
+      "theftCrimes": 5.3,
+      "harassmentCrimes": 10,
+      "publicSafety": 3.8
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Katihar",
+    "district_code": 201,
+    "safety_score": 2.5,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 10,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Khagaria",
+    "district_code": 202,
+    "safety_score": 8,
+    "breakdown": {
+      "violentCrimes": 8,
+      "theftCrimes": 6.6,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 7.7
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Kishanganj",
+    "district_code": 203,
+    "safety_score": 8.3,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 6.5,
+      "harassmentCrimes": 10,
+      "publicSafety": 8.6
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Lakhisarai",
+    "district_code": 204,
+    "safety_score": 7.8,
+    "breakdown": {
+      "violentCrimes": 4.8,
+      "theftCrimes": 8.4,
+      "harassmentCrimes": 10,
+      "publicSafety": 8.2
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Munger",
+    "district_code": 207,
+    "safety_score": 8.1,
+    "breakdown": {
+      "violentCrimes": 8.6,
+      "theftCrimes": 7.7,
+      "harassmentCrimes": 10,
+      "publicSafety": 5.8
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Muzaffarpur",
+    "district_code": 208,
+    "safety_score": 2.8,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 2.2
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Nawada",
+    "district_code": 210,
+    "safety_score": 4.5,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 2.2,
+      "harassmentCrimes": 10,
+      "publicSafety": 6.5
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Pashchim Champaran",
+    "district_code": 211,
+    "safety_score": 2.7,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 10,
+      "publicSafety": 0.8
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Patna",
+    "district_code": 212,
+    "safety_score": 2,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 7.8,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Purbi Champaran",
+    "district_code": 213,
+    "safety_score": 2.6,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 9.2,
+      "publicSafety": 1.8
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Rohtas",
+    "district_code": 215,
+    "safety_score": 4.8,
+    "breakdown": {
+      "violentCrimes": 6.1,
+      "theftCrimes": 0,
+      "harassmentCrimes": 9.3,
+      "publicSafety": 4.9
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Saharsa",
+    "district_code": 216,
+    "safety_score": 7.5,
+    "breakdown": {
+      "violentCrimes": 8.7,
+      "theftCrimes": 4.6,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 7.6
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Samastipur",
+    "district_code": 217,
+    "safety_score": 4.2,
+    "breakdown": {
+      "violentCrimes": 1.5,
+      "theftCrimes": 1.2,
+      "harassmentCrimes": 8.4,
+      "publicSafety": 6.6
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Saran",
+    "district_code": 218,
+    "safety_score": 2.9,
+    "breakdown": {
+      "violentCrimes": 1.5,
+      "theftCrimes": 0,
+      "harassmentCrimes": 10,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Sheikhpura",
+    "district_code": 219,
+    "safety_score": 8.1,
+    "breakdown": {
+      "violentCrimes": 8.1,
+      "theftCrimes": 7.7,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 6.8
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Sheohar",
+    "district_code": 220,
+    "safety_score": 9.5,
+    "breakdown": {
+      "violentCrimes": 8.9,
+      "theftCrimes": 9.4,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.7
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Sitamarhi",
+    "district_code": 221,
+    "safety_score": 4.3,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 9.4
+    }
+  },
+  {
+    "state_name": "Bihar",
+    "state_code": 10,
+    "district_name": "Vaishali",
+    "district_code": 224,
+    "safety_score": 3.9,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 10,
+      "publicSafety": 6.9
+    }
+  },
+  {
+    "state_name": "Chandigarh",
+    "state_code": 4,
+    "district_name": "Chandigarh",
+    "district_code": 44,
+    "safety_score": 1,
+    "breakdown": {
+      "violentCrimes": 2,
+      "theftCrimes": 0,
+      "harassmentCrimes": 2.1,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Balodabazar-Bhatapara",
+    "district_code": 644,
+    "safety_score": 5.3,
+    "breakdown": {
+      "violentCrimes": 6.9,
+      "theftCrimes": 7.9,
+      "harassmentCrimes": 4.8,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Dakshin Bastar Dantewada",
+    "district_code": 376,
+    "safety_score": 9.4,
+    "breakdown": {
+      "violentCrimes": 9.3,
+      "theftCrimes": 9.4,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.1
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Durg",
+    "district_code": 378,
+    "safety_score": 3.1,
+    "breakdown": {
+      "violentCrimes": 7.2,
+      "theftCrimes": 0.6,
+      "harassmentCrimes": 4.6,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Janjgir-Champa",
+    "district_code": 379,
+    "safety_score": 4.5,
+    "breakdown": {
+      "violentCrimes": 5.5,
+      "theftCrimes": 6.3,
+      "harassmentCrimes": 2.5,
+      "publicSafety": 3.2
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Kabeerdham",
+    "district_code": 382,
+    "safety_score": 6.1,
+    "breakdown": {
+      "violentCrimes": 7.1,
+      "theftCrimes": 7.5,
+      "harassmentCrimes": 4.6,
+      "publicSafety": 4.7
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Korba",
+    "district_code": 383,
+    "safety_score": 6.3,
+    "breakdown": {
+      "violentCrimes": 8,
+      "theftCrimes": 6.2,
+      "harassmentCrimes": 6.8,
+      "publicSafety": 3.9
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Korea",
+    "district_code": 384,
+    "safety_score": 8,
+    "breakdown": {
+      "violentCrimes": 7.8,
+      "theftCrimes": 9.1,
+      "harassmentCrimes": 6.9,
+      "publicSafety": 8
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Narayanpur",
+    "district_code": 637,
+    "safety_score": 9.8,
+    "breakdown": {
+      "violentCrimes": 9.6,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.8
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Raigarh",
+    "district_code": 386,
+    "safety_score": 0,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Raipur",
+    "district_code": 387,
+    "safety_score": 1.6,
+    "breakdown": {
+      "violentCrimes": 4.6,
+      "theftCrimes": 0,
+      "harassmentCrimes": 1.8,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Rajnandgaon",
+    "district_code": 388,
+    "safety_score": 6,
+    "breakdown": {
+      "violentCrimes": 7.7,
+      "theftCrimes": 6.8,
+      "harassmentCrimes": 6,
+      "publicSafety": 2.6
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Surajpur",
+    "district_code": 648,
+    "safety_score": 8,
+    "breakdown": {
+      "violentCrimes": 6.9,
+      "theftCrimes": 9.1,
+      "harassmentCrimes": 8.1,
+      "publicSafety": 7.9
+    }
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "state_code": 22,
+    "district_name": "Surguja",
+    "district_code": 389,
+    "safety_score": 6.1,
+    "breakdown": {
+      "violentCrimes": 7,
+      "theftCrimes": 5.6,
+      "harassmentCrimes": 7.4,
+      "publicSafety": 4.1
+    }
+  },
+  {
+    "state_name": "Delhi",
+    "state_code": 7,
+    "district_name": "New Delhi",
+    "district_code": 79,
+    "safety_score": 4.7,
+    "breakdown": {
+      "violentCrimes": 9.3,
+      "theftCrimes": 0,
+      "harassmentCrimes": 6.9,
+      "publicSafety": 3.3
+    }
+  },
+  {
+    "state_name": "Delhi",
+    "state_code": 7,
+    "district_name": "North East",
+    "district_code": 81,
+    "safety_score": 3.7,
+    "breakdown": {
+      "violentCrimes": 7.1,
+      "theftCrimes": 0,
+      "harassmentCrimes": 3.1,
+      "publicSafety": 6.1
+    }
+  },
+  {
+    "state_name": "Delhi",
+    "state_code": 7,
+    "district_name": "North West",
+    "district_code": 82,
+    "safety_score": 3.2,
+    "breakdown": {
+      "violentCrimes": 7.2,
+      "theftCrimes": 0,
+      "harassmentCrimes": 4.4,
+      "publicSafety": 1.4
+    }
+  },
+  {
+    "state_name": "Delhi",
+    "state_code": 7,
+    "district_name": "Shahdara",
+    "district_code": 671,
+    "safety_score": 1.5,
+    "breakdown": {
+      "violentCrimes": 5.8,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Delhi",
+    "state_code": 7,
+    "district_name": "South East",
+    "district_code": 670,
+    "safety_score": 1.6,
+    "breakdown": {
+      "violentCrimes": 6.3,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Delhi",
+    "state_code": 7,
+    "district_name": "West",
+    "district_code": 85,
+    "safety_score": 3.3,
+    "breakdown": {
+      "violentCrimes": 7.3,
+      "theftCrimes": 0,
+      "harassmentCrimes": 6,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Ahmadabad",
+    "district_code": 438,
+    "safety_score": 7,
+    "breakdown": {
+      "violentCrimes": 8.3,
+      "theftCrimes": 8.7,
+      "harassmentCrimes": 9.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Amreli",
+    "district_code": 439,
+    "safety_score": 8.5,
+    "breakdown": {
+      "violentCrimes": 8.1,
+      "theftCrimes": 9,
+      "harassmentCrimes": 9.1,
+      "publicSafety": 7.7
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Anand",
+    "district_code": 440,
+    "safety_score": 5.5,
+    "breakdown": {
+      "violentCrimes": 6.5,
+      "theftCrimes": 5.9,
+      "harassmentCrimes": 8.6,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Arvalli",
+    "district_code": 672,
+    "safety_score": 7.9,
+    "breakdown": {
+      "violentCrimes": 9,
+      "theftCrimes": 8.8,
+      "harassmentCrimes": 9.3,
+      "publicSafety": 3.5
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Bharuch",
+    "district_code": 442,
+    "safety_score": 6.3,
+    "breakdown": {
+      "violentCrimes": 7.7,
+      "theftCrimes": 6.5,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Chhotaudepur",
+    "district_code": 668,
+    "safety_score": 7.1,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 8.7,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Dang",
+    "district_code": 444,
+    "safety_score": 9.5,
+    "breakdown": {
+      "violentCrimes": 9.6,
+      "theftCrimes": 9.8,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 8.7
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Jamnagar",
+    "district_code": 447,
+    "safety_score": 6.7,
+    "breakdown": {
+      "violentCrimes": 8,
+      "theftCrimes": 7.3,
+      "harassmentCrimes": 8.9,
+      "publicSafety": 1.7
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Kachchh",
+    "district_code": 449,
+    "safety_score": 6.3,
+    "breakdown": {
+      "violentCrimes": 8.1,
+      "theftCrimes": 6.3,
+      "harassmentCrimes": 9.5,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Kheda",
+    "district_code": 450,
+    "safety_score": 8.3,
+    "breakdown": {
+      "violentCrimes": 8.1,
+      "theftCrimes": 8.7,
+      "harassmentCrimes": 9.2,
+      "publicSafety": 6.9
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Mahesana",
+    "district_code": 451,
+    "safety_score": 7.5,
+    "breakdown": {
+      "violentCrimes": 8,
+      "theftCrimes": 7.1,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 4.8
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Mahisagar",
+    "district_code": 669,
+    "safety_score": 9,
+    "breakdown": {
+      "violentCrimes": 9,
+      "theftCrimes": 9.7,
+      "harassmentCrimes": 9.3,
+      "publicSafety": 7.8
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Porbandar",
+    "district_code": 456,
+    "safety_score": 8.6,
+    "breakdown": {
+      "violentCrimes": 9.2,
+      "theftCrimes": 9.5,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 5.2
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Rajkot",
+    "district_code": 457,
+    "safety_score": 6.1,
+    "breakdown": {
+      "violentCrimes": 6,
+      "theftCrimes": 7.5,
+      "harassmentCrimes": 9.5,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Sabar Kantha",
+    "district_code": 458,
+    "safety_score": 6.2,
+    "breakdown": {
+      "violentCrimes": 8.6,
+      "theftCrimes": 6,
+      "harassmentCrimes": 8.8,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Surat",
+    "district_code": 459,
+    "safety_score": 3,
+    "breakdown": {
+      "violentCrimes": 4.2,
+      "theftCrimes": 0,
+      "harassmentCrimes": 7.8,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Tapi",
+    "district_code": 641,
+    "safety_score": 7.7,
+    "breakdown": {
+      "violentCrimes": 9.5,
+      "theftCrimes": 9.6,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Gujarat",
+    "state_code": 24,
+    "district_name": "Vadodara",
+    "district_code": 461,
+    "safety_score": 6.8,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 0.1,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Ambala",
+    "district_code": 58,
+    "safety_score": 6.4,
+    "breakdown": {
+      "violentCrimes": 8.9,
+      "theftCrimes": 0,
+      "harassmentCrimes": 9.4,
+      "publicSafety": 8.8
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Faridabad",
+    "district_code": 60,
+    "safety_score": 1,
+    "breakdown": {
+      "violentCrimes": 1.4,
+      "theftCrimes": 0,
+      "harassmentCrimes": 2.5,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Jhajjar",
+    "district_code": 64,
+    "safety_score": 3.5,
+    "breakdown": {
+      "violentCrimes": 6.8,
+      "theftCrimes": 0.7,
+      "harassmentCrimes": 2.6,
+      "publicSafety": 4.9
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Jind",
+    "district_code": 65,
+    "safety_score": 6.2,
+    "breakdown": {
+      "violentCrimes": 7.2,
+      "theftCrimes": 2.1,
+      "harassmentCrimes": 8.2,
+      "publicSafety": 8.5
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Kurukshetra",
+    "district_code": 68,
+    "safety_score": 2.7,
+    "breakdown": {
+      "violentCrimes": 4.4,
+      "theftCrimes": 0,
+      "harassmentCrimes": 2.7,
+      "publicSafety": 4.5
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Nuh",
+    "district_code": 604,
+    "safety_score": 2.8,
+    "breakdown": {
+      "violentCrimes": 3.8,
+      "theftCrimes": 0,
+      "harassmentCrimes": 2,
+      "publicSafety": 6.7
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Panchkula",
+    "district_code": 70,
+    "safety_score": 6.7,
+    "breakdown": {
+      "violentCrimes": 8.3,
+      "theftCrimes": 6.9,
+      "harassmentCrimes": 8.4,
+      "publicSafety": 2.4
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Panipat",
+    "district_code": 71,
+    "safety_score": 1.9,
+    "breakdown": {
+      "violentCrimes": 4.4,
+      "theftCrimes": 0,
+      "harassmentCrimes": 3.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Rohtak",
+    "district_code": 73,
+    "safety_score": 3,
+    "breakdown": {
+      "violentCrimes": 6.7,
+      "theftCrimes": 0,
+      "harassmentCrimes": 5.4,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Sirsa",
+    "district_code": 74,
+    "safety_score": 1.7,
+    "breakdown": {
+      "violentCrimes": 1.8,
+      "theftCrimes": 0,
+      "harassmentCrimes": 3.9,
+      "publicSafety": 1.7
+    }
+  },
+  {
+    "state_name": "Haryana",
+    "state_code": 6,
+    "district_name": "Sonipat",
+    "district_code": 75,
+    "safety_score": 0,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Himachal Pradesh",
+    "state_code": 2,
+    "district_name": "Hamirpur",
+    "district_code": 17,
+    "safety_score": 9.1,
+    "breakdown": {
+      "violentCrimes": 8.8,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 8,
+      "publicSafety": 9.6
+    }
+  },
+  {
+    "state_name": "Himachal Pradesh",
+    "state_code": 2,
+    "district_name": "Kinnaur",
+    "district_code": 19,
+    "safety_score": 9.8,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 10,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 9.8
+    }
+  },
+  {
+    "state_name": "Himachal Pradesh",
+    "state_code": 2,
+    "district_name": "Shimla",
+    "district_code": 23,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 10,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.7
+    }
+  },
+  {
+    "state_name": "Himachal Pradesh",
+    "state_code": 2,
+    "district_name": "Sirmaur",
+    "district_code": 24,
+    "safety_score": 7.3,
+    "breakdown": {
+      "violentCrimes": 8.5,
+      "theftCrimes": 9.5,
+      "harassmentCrimes": 7.9,
+      "publicSafety": 1.6
+    }
+  },
+  {
+    "state_name": "Himachal Pradesh",
+    "state_code": 2,
+    "district_name": "Solan",
+    "district_code": 25,
+    "safety_score": 9.1,
+    "breakdown": {
+      "violentCrimes": 9.3,
+      "theftCrimes": 9.4,
+      "harassmentCrimes": 9.2,
+      "publicSafety": 8.5
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Anantnag",
+    "district_code": 1,
+    "safety_score": 8.1,
+    "breakdown": {
+      "violentCrimes": 9.6,
+      "theftCrimes": 9,
+      "harassmentCrimes": 4.6,
+      "publicSafety": 9.3
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Bandipora",
+    "district_code": 623,
+    "safety_score": 9.2,
+    "breakdown": {
+      "violentCrimes": 9.4,
+      "theftCrimes": 9.3,
+      "harassmentCrimes": 10,
+      "publicSafety": 7.7
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Baramulla",
+    "district_code": 3,
+    "safety_score": 6.7,
+    "breakdown": {
+      "violentCrimes": 9.6,
+      "theftCrimes": 8.8,
+      "harassmentCrimes": 5.7,
+      "publicSafety": 1.3
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Doda",
+    "district_code": 4,
+    "safety_score": 9.5,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 9.8,
+      "harassmentCrimes": 8.6,
+      "publicSafety": 9.7
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Jammu",
+    "district_code": 5,
+    "safety_score": 6.1,
+    "breakdown": {
+      "violentCrimes": 8.9,
+      "theftCrimes": 4.2,
+      "harassmentCrimes": 4,
+      "publicSafety": 8
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Kathua",
+    "district_code": 7,
+    "safety_score": 8.9,
+    "breakdown": {
+      "violentCrimes": 9.4,
+      "theftCrimes": 9.3,
+      "harassmentCrimes": 8.3,
+      "publicSafety": 8.6
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Kulgam",
+    "district_code": 622,
+    "safety_score": 7.8,
+    "breakdown": {
+      "violentCrimes": 9.8,
+      "theftCrimes": 9.1,
+      "harassmentCrimes": 3.3,
+      "publicSafety": 9.2
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Poonch",
+    "district_code": 10,
+    "safety_score": 8.9,
+    "breakdown": {
+      "violentCrimes": 9.5,
+      "theftCrimes": 9.8,
+      "harassmentCrimes": 8.1,
+      "publicSafety": 8.1
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Rajouri",
+    "district_code": 12,
+    "safety_score": 8.3,
+    "breakdown": {
+      "violentCrimes": 9,
+      "theftCrimes": 9.2,
+      "harassmentCrimes": 7.4,
+      "publicSafety": 7.3
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Reasi",
+    "district_code": 627,
+    "safety_score": 10,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Samba",
+    "district_code": 624,
+    "safety_score": 9.3,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 9.2,
+      "harassmentCrimes": 9.3,
+      "publicSafety": 9
+    }
+  },
+  {
+    "state_name": "Jammu And Kashmir",
+    "state_code": 1,
+    "district_name": "Udhampur",
+    "district_code": 14,
+    "safety_score": 8.6,
+    "breakdown": {
+      "violentCrimes": 9.6,
+      "theftCrimes": 9.1,
+      "harassmentCrimes": 8.4,
+      "publicSafety": 6.9
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "Bokaro",
+    "district_code": 322,
+    "safety_score": 5.3,
+    "breakdown": {
+      "violentCrimes": 5.1,
+      "theftCrimes": 2.3,
+      "harassmentCrimes": 7.4,
+      "publicSafety": 7.6
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "Chatra",
+    "district_code": 323,
+    "safety_score": 2.6,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 2.3,
+      "harassmentCrimes": 7.7,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "East Singhbum",
+    "district_code": 327,
+    "safety_score": 9,
+    "breakdown": {
+      "violentCrimes": 9.8,
+      "theftCrimes": 7,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "Garhwa",
+    "district_code": 328,
+    "safety_score": 3.7,
+    "breakdown": {
+      "violentCrimes": 3.6,
+      "theftCrimes": 6.9,
+      "harassmentCrimes": 2.9,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "Godda",
+    "district_code": 330,
+    "safety_score": 5.4,
+    "breakdown": {
+      "violentCrimes": 4.7,
+      "theftCrimes": 5.1,
+      "harassmentCrimes": 7.3,
+      "publicSafety": 4.2
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "Khunti",
+    "district_code": 606,
+    "safety_score": 7.8,
+    "breakdown": {
+      "violentCrimes": 6.6,
+      "theftCrimes": 8.4,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 5.7
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "Koderma",
+    "district_code": 334,
+    "safety_score": 8.6,
+    "breakdown": {
+      "violentCrimes": 8.6,
+      "theftCrimes": 8.4,
+      "harassmentCrimes": 10,
+      "publicSafety": 7.4
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "Lohardaga",
+    "district_code": 336,
+    "safety_score": 8.6,
+    "breakdown": {
+      "violentCrimes": 8.3,
+      "theftCrimes": 8.8,
+      "harassmentCrimes": 8.6,
+      "publicSafety": 8.9
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "Ranchi",
+    "district_code": 339,
+    "safety_score": 2.5,
+    "breakdown": {
+      "violentCrimes": 2.6,
+      "theftCrimes": 0,
+      "harassmentCrimes": 7.5,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "Sahebganj",
+    "district_code": 340,
+    "safety_score": 0.9,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 3,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Jharkhand",
+    "state_code": 20,
+    "district_name": "West Singhbhum",
+    "district_code": 343,
+    "safety_score": 8.3,
+    "breakdown": {
+      "violentCrimes": 6.8,
+      "theftCrimes": 8.1,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 8.7
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Bagalkote",
+    "district_code": 524,
+    "safety_score": 6.8,
+    "breakdown": {
+      "violentCrimes": 8.9,
+      "theftCrimes": 6.9,
+      "harassmentCrimes": 6.9,
+      "publicSafety": 3.7
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Belagavi",
+    "district_code": 527,
+    "safety_score": 2.9,
+    "breakdown": {
+      "violentCrimes": 7.1,
+      "theftCrimes": 2.2,
+      "harassmentCrimes": 1.9,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Bengaluru Urban",
+    "district_code": 525,
+    "safety_score": 3.2,
+    "breakdown": {
+      "violentCrimes": 8.3,
+      "theftCrimes": 0,
+      "harassmentCrimes": 4.4,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Bidar",
+    "district_code": 529,
+    "safety_score": 7.5,
+    "breakdown": {
+      "violentCrimes": 9,
+      "theftCrimes": 6.8,
+      "harassmentCrimes": 8.5,
+      "publicSafety": 5.4
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Chikkamagaluru",
+    "district_code": 532,
+    "safety_score": 6.4,
+    "breakdown": {
+      "violentCrimes": 9,
+      "theftCrimes": 6.5,
+      "harassmentCrimes": 5.3,
+      "publicSafety": 4.2
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Davangere",
+    "district_code": 535,
+    "safety_score": 5.1,
+    "breakdown": {
+      "violentCrimes": 8.9,
+      "theftCrimes": 6.4,
+      "harassmentCrimes": 3.9,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Dharwad",
+    "district_code": 536,
+    "safety_score": 4.4,
+    "breakdown": {
+      "violentCrimes": 8.7,
+      "theftCrimes": 1.9,
+      "harassmentCrimes": 6.6,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Kodagu",
+    "district_code": 541,
+    "safety_score": 5.4,
+    "breakdown": {
+      "violentCrimes": 7.9,
+      "theftCrimes": 6.4,
+      "harassmentCrimes": 6.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Kolar",
+    "district_code": 542,
+    "safety_score": 6.9,
+    "breakdown": {
+      "violentCrimes": 9.1,
+      "theftCrimes": 7.1,
+      "harassmentCrimes": 7,
+      "publicSafety": 3.7
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Koppal",
+    "district_code": 543,
+    "safety_score": 6.6,
+    "breakdown": {
+      "violentCrimes": 9.5,
+      "theftCrimes": 5.3,
+      "harassmentCrimes": 6,
+      "publicSafety": 5.6
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Tumakuru",
+    "district_code": 548,
+    "safety_score": 4.6,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 4.3,
+      "harassmentCrimes": 5,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Karnataka",
+    "state_code": 29,
+    "district_name": "Udupi",
+    "district_code": 549,
+    "safety_score": 6.9,
+    "breakdown": {
+      "violentCrimes": 9.3,
+      "theftCrimes": 8.4,
+      "harassmentCrimes": 5.1,
+      "publicSafety": 4.1
+    }
+  },
+  {
+    "state_name": "Kerala",
+    "state_code": 32,
+    "district_name": "Ernakulam",
+    "district_code": 555,
+    "safety_score": 3.7,
+    "breakdown": {
+      "violentCrimes": 6,
+      "theftCrimes": 7.4,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Kerala",
+    "state_code": 32,
+    "district_name": "Idukki",
+    "district_code": 556,
+    "safety_score": 3.2,
+    "breakdown": {
+      "violentCrimes": 4.8,
+      "theftCrimes": 6.7,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Kerala",
+    "state_code": 32,
+    "district_name": "Kasaragod",
+    "district_code": 558,
+    "safety_score": 4.3,
+    "breakdown": {
+      "violentCrimes": 8,
+      "theftCrimes": 5.3,
+      "harassmentCrimes": 2.8,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Kerala",
+    "state_code": 32,
+    "district_name": "Kollam",
+    "district_code": 559,
+    "safety_score": 3.4,
+    "breakdown": {
+      "violentCrimes": 4.9,
+      "theftCrimes": 7.2,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Kerala",
+    "state_code": 32,
+    "district_name": "Kottayam",
+    "district_code": 560,
+    "safety_score": 4.5,
+    "breakdown": {
+      "violentCrimes": 8.2,
+      "theftCrimes": 8,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Kerala",
+    "state_code": 32,
+    "district_name": "Pathanamthitta",
+    "district_code": 564,
+    "safety_score": 4.8,
+    "breakdown": {
+      "violentCrimes": 8,
+      "theftCrimes": 8.4,
+      "harassmentCrimes": 1.2,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Kerala",
+    "state_code": 32,
+    "district_name": "Thrissur",
+    "district_code": 566,
+    "safety_score": 3.2,
+    "breakdown": {
+      "violentCrimes": 5.3,
+      "theftCrimes": 6.4,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Kerala",
+    "state_code": 32,
+    "district_name": "Wayanad",
+    "district_code": 567,
+    "safety_score": 6,
+    "breakdown": {
+      "violentCrimes": 8.3,
+      "theftCrimes": 9.3,
+      "harassmentCrimes": 4.6,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Ladakh",
+    "state_code": 37,
+    "district_name": "Leh Ladakh",
+    "district_code": 9,
+    "safety_score": 9.8,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 9.4
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Anuppur",
+    "district_code": 390,
+    "safety_score": 7.4,
+    "breakdown": {
+      "violentCrimes": 7.3,
+      "theftCrimes": 7.3,
+      "harassmentCrimes": 7.9,
+      "publicSafety": 6.8
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Barwani",
+    "district_code": 393,
+    "safety_score": 6.8,
+    "breakdown": {
+      "violentCrimes": 6.7,
+      "theftCrimes": 7.1,
+      "harassmentCrimes": 5.5,
+      "publicSafety": 7.9
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Burhanpur",
+    "district_code": 397,
+    "safety_score": 8.9,
+    "breakdown": {
+      "violentCrimes": 8.7,
+      "theftCrimes": 9.1,
+      "harassmentCrimes": 8.4,
+      "publicSafety": 9.6
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Chhatarpur",
+    "district_code": 398,
+    "safety_score": 5.7,
+    "breakdown": {
+      "violentCrimes": 6.5,
+      "theftCrimes": 6.8,
+      "harassmentCrimes": 1.4,
+      "publicSafety": 8.7
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Damoh",
+    "district_code": 400,
+    "safety_score": 3.1,
+    "breakdown": {
+      "violentCrimes": 4.4,
+      "theftCrimes": 6.6,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Dewas",
+    "district_code": 402,
+    "safety_score": 4,
+    "breakdown": {
+      "violentCrimes": 5.4,
+      "theftCrimes": 2.5,
+      "harassmentCrimes": 3.9,
+      "publicSafety": 4.4
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Dhar",
+    "district_code": 403,
+    "safety_score": 1,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 1,
+      "harassmentCrimes": 0,
+      "publicSafety": 3.3
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Harda",
+    "district_code": 408,
+    "safety_score": 8.3,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 8.1,
+      "harassmentCrimes": 8.1,
+      "publicSafety": 8.6
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Jabalpur",
+    "district_code": 411,
+    "safety_score": 2.8,
+    "breakdown": {
+      "violentCrimes": 2.6,
+      "theftCrimes": 1.4,
+      "harassmentCrimes": 1.8,
+      "publicSafety": 6.5
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Jhabua",
+    "district_code": 412,
+    "safety_score": 8.5,
+    "breakdown": {
+      "violentCrimes": 8.1,
+      "theftCrimes": 8.5,
+      "harassmentCrimes": 8.6,
+      "publicSafety": 8.9
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Katni",
+    "district_code": 413,
+    "safety_score": 5.8,
+    "breakdown": {
+      "violentCrimes": 5.6,
+      "theftCrimes": 7.3,
+      "harassmentCrimes": 4.3,
+      "publicSafety": 5.9
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Khandwa (East Nimar)",
+    "district_code": 405,
+    "safety_score": 7.6,
+    "breakdown": {
+      "violentCrimes": 8.5,
+      "theftCrimes": 7.3,
+      "harassmentCrimes": 6.1,
+      "publicSafety": 8.8
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Mandla",
+    "district_code": 415,
+    "safety_score": 6.7,
+    "breakdown": {
+      "violentCrimes": 6.9,
+      "theftCrimes": 6.1,
+      "harassmentCrimes": 7.1,
+      "publicSafety": 6.8
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Mandsaur",
+    "district_code": 416,
+    "safety_score": 5.9,
+    "breakdown": {
+      "violentCrimes": 7.8,
+      "theftCrimes": 4.6,
+      "harassmentCrimes": 5.6,
+      "publicSafety": 5.8
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Morena",
+    "district_code": 417,
+    "safety_score": 2.8,
+    "breakdown": {
+      "violentCrimes": 1.5,
+      "theftCrimes": 3.8,
+      "harassmentCrimes": 3.6,
+      "publicSafety": 2
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Narmadapuram",
+    "district_code": 409,
+    "safety_score": 2,
+    "breakdown": {
+      "violentCrimes": 2.6,
+      "theftCrimes": 2.5,
+      "harassmentCrimes": 0,
+      "publicSafety": 2.9
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Raisen",
+    "district_code": 421,
+    "safety_score": 6.8,
+    "breakdown": {
+      "violentCrimes": 2.1,
+      "theftCrimes": 7.2,
+      "harassmentCrimes": 10,
+      "publicSafety": 8
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Satna",
+    "district_code": 426,
+    "safety_score": 2.3,
+    "breakdown": {
+      "violentCrimes": 3.3,
+      "theftCrimes": 4.6,
+      "harassmentCrimes": 0,
+      "publicSafety": 0.6
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Sehore",
+    "district_code": 427,
+    "safety_score": 5.6,
+    "breakdown": {
+      "violentCrimes": 7.6,
+      "theftCrimes": 5.2,
+      "harassmentCrimes": 5.2,
+      "publicSafety": 4.2
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Shahdol",
+    "district_code": 429,
+    "safety_score": 6.1,
+    "breakdown": {
+      "violentCrimes": 4.2,
+      "theftCrimes": 7.9,
+      "harassmentCrimes": 4.8,
+      "publicSafety": 7.5
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Tikamgarh",
+    "district_code": 434,
+    "safety_score": 5.9,
+    "breakdown": {
+      "violentCrimes": 5.4,
+      "theftCrimes": 8,
+      "harassmentCrimes": 2.4,
+      "publicSafety": 7.8
+    }
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "state_code": 23,
+    "district_name": "Umaria",
+    "district_code": 436,
+    "safety_score": 6.8,
+    "breakdown": {
+      "violentCrimes": 6.6,
+      "theftCrimes": 7.7,
+      "harassmentCrimes": 4.6,
+      "publicSafety": 8.4
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Beed",
+    "district_code": 470,
+    "safety_score": 1.5,
+    "breakdown": {
+      "violentCrimes": 6.1,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Bhandara",
+    "district_code": 471,
+    "safety_score": 6.5,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 6,
+      "harassmentCrimes": 5.8,
+      "publicSafety": 6
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Chhatrapati Sambhajinagar",
+    "district_code": 469,
+    "safety_score": 2.7,
+    "breakdown": {
+      "violentCrimes": 6.9,
+      "theftCrimes": 0,
+      "harassmentCrimes": 4.1,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Gadchiroli",
+    "district_code": 475,
+    "safety_score": 6.6,
+    "breakdown": {
+      "violentCrimes": 6.9,
+      "theftCrimes": 7.3,
+      "harassmentCrimes": 5.3,
+      "publicSafety": 6.6
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Hingoli",
+    "district_code": 477,
+    "safety_score": 6.8,
+    "breakdown": {
+      "violentCrimes": 8.5,
+      "theftCrimes": 6.1,
+      "harassmentCrimes": 6.6,
+      "publicSafety": 5.8
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Latur",
+    "district_code": 481,
+    "safety_score": 3.9,
+    "breakdown": {
+      "violentCrimes": 7.1,
+      "theftCrimes": 2.7,
+      "harassmentCrimes": 5.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Nandurbar",
+    "district_code": 486,
+    "safety_score": 7.3,
+    "breakdown": {
+      "violentCrimes": 8.9,
+      "theftCrimes": 6.4,
+      "harassmentCrimes": 8.4,
+      "publicSafety": 5.3
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Palghar",
+    "district_code": 665,
+    "safety_score": 6.4,
+    "breakdown": {
+      "violentCrimes": 8.2,
+      "theftCrimes": 7.4,
+      "harassmentCrimes": 6.4,
+      "publicSafety": 2.8
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Pune",
+    "district_code": 490,
+    "safety_score": 0,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Ratnagiri",
+    "district_code": 492,
+    "safety_score": 7.4,
+    "breakdown": {
+      "violentCrimes": 9.2,
+      "theftCrimes": 7.5,
+      "harassmentCrimes": 6.8,
+      "publicSafety": 5.8
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Satara",
+    "district_code": 494,
+    "safety_score": 0.8,
+    "breakdown": {
+      "violentCrimes": 3.2,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Sindhudurg",
+    "district_code": 495,
+    "safety_score": 7,
+    "breakdown": {
+      "violentCrimes": 9.1,
+      "theftCrimes": 6.5,
+      "harassmentCrimes": 5.5,
+      "publicSafety": 7.1
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Solapur",
+    "district_code": 496,
+    "safety_score": 5.6,
+    "breakdown": {
+      "violentCrimes": 9,
+      "theftCrimes": 3.6,
+      "harassmentCrimes": 7.4,
+      "publicSafety": 2.1
+    }
+  },
+  {
+    "state_name": "Maharashtra",
+    "state_code": 27,
+    "district_name": "Thane",
+    "district_code": 497,
+    "safety_score": 0.6,
+    "breakdown": {
+      "violentCrimes": 2.6,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Manipur",
+    "state_code": 14,
+    "district_name": "Bishnupur",
+    "district_code": 252,
+    "safety_score": 9.6,
+    "breakdown": {
+      "violentCrimes": 9.5,
+      "theftCrimes": 9.4,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.6
+    }
+  },
+  {
+    "state_name": "Manipur",
+    "state_code": 14,
+    "district_name": "Chandel",
+    "district_code": 253,
+    "safety_score": 10,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 10,
+      "harassmentCrimes": 10,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Manipur",
+    "state_code": 14,
+    "district_name": "Imphal West",
+    "district_code": 256,
+    "safety_score": 9.7,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 10,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 8.7
+    }
+  },
+  {
+    "state_name": "Manipur",
+    "state_code": 14,
+    "district_name": "Noney",
+    "district_code": 714,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Manipur",
+    "state_code": 14,
+    "district_name": "Tamenglong",
+    "district_code": 258,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.8
+    }
+  },
+  {
+    "state_name": "Manipur",
+    "state_code": 14,
+    "district_name": "Thoubal",
+    "district_code": 259,
+    "safety_score": 7.5,
+    "breakdown": {
+      "violentCrimes": 7.1,
+      "theftCrimes": 6.8,
+      "harassmentCrimes": 9.1,
+      "publicSafety": 7
+    }
+  },
+  {
+    "state_name": "Manipur",
+    "state_code": 14,
+    "district_name": "Ukhrul",
+    "district_code": 260,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.8,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Meghalaya",
+    "state_code": 17,
+    "district_name": "East Jaintia Hills",
+    "district_code": 657,
+    "safety_score": 9.7,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 9.5,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.7
+    }
+  },
+  {
+    "state_name": "Meghalaya",
+    "state_code": 17,
+    "district_name": "North Garo Hills",
+    "district_code": 656,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Meghalaya",
+    "state_code": 17,
+    "district_name": "South Garo Hills",
+    "district_code": 277,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Meghalaya",
+    "state_code": 17,
+    "district_name": "West Jaintia Hills",
+    "district_code": 275,
+    "safety_score": 9.1,
+    "breakdown": {
+      "violentCrimes": 8.8,
+      "theftCrimes": 8.7,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 9.2
+    }
+  },
+  {
+    "state_name": "Meghalaya",
+    "state_code": 17,
+    "district_name": "West Khasi Hills",
+    "district_code": 279,
+    "safety_score": 9.7,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 9.7,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 9.7
+    }
+  },
+  {
+    "state_name": "Mizoram",
+    "state_code": 15,
+    "district_name": "Aizawl",
+    "district_code": 261,
+    "safety_score": 5.7,
+    "breakdown": {
+      "violentCrimes": 9.3,
+      "theftCrimes": 0,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 5.1
+    }
+  },
+  {
+    "state_name": "Mizoram",
+    "state_code": 15,
+    "district_name": "Lawngtlai",
+    "district_code": 264,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Mizoram",
+    "state_code": 15,
+    "district_name": "Siaha",
+    "district_code": 267,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 9.8,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Nagaland",
+    "state_code": 13,
+    "district_name": "Dimapur",
+    "district_code": 244,
+    "safety_score": 8.6,
+    "breakdown": {
+      "violentCrimes": 9.5,
+      "theftCrimes": 6.4,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 9.5
+    }
+  },
+  {
+    "state_name": "Nagaland",
+    "state_code": 13,
+    "district_name": "Peren",
+    "district_code": 613,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Nagaland",
+    "state_code": 13,
+    "district_name": "Tuensang",
+    "district_code": 249,
+    "safety_score": 9.9,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Nagaland",
+    "state_code": 13,
+    "district_name": "Zunheboto",
+    "district_code": 251,
+    "safety_score": 9.8,
+    "breakdown": {
+      "violentCrimes": 9.8,
+      "theftCrimes": 9.5,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.8
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Balangir",
+    "district_code": 345,
+    "safety_score": 2.5,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 3.5,
+      "harassmentCrimes": 5.8,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Bhadrak",
+    "district_code": 348,
+    "safety_score": 4.5,
+    "breakdown": {
+      "violentCrimes": 8.3,
+      "theftCrimes": 5.2,
+      "harassmentCrimes": 0,
+      "publicSafety": 4.6
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Boudh",
+    "district_code": 349,
+    "safety_score": 8.7,
+    "breakdown": {
+      "violentCrimes": 9.4,
+      "theftCrimes": 9.3,
+      "harassmentCrimes": 6.8,
+      "publicSafety": 9.3
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Cuttack",
+    "district_code": 350,
+    "safety_score": 0.8,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 2.6,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Ganjam",
+    "district_code": 354,
+    "safety_score": 3,
+    "breakdown": {
+      "violentCrimes": 6.3,
+      "theftCrimes": 4.6,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Jagatsinghapur",
+    "district_code": 355,
+    "safety_score": 5.4,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 7.7,
+      "harassmentCrimes": 0,
+      "publicSafety": 5.1
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Kalahandi",
+    "district_code": 358,
+    "safety_score": 3.7,
+    "breakdown": {
+      "violentCrimes": 2.2,
+      "theftCrimes": 6.4,
+      "harassmentCrimes": 5.1,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Kendujhar",
+    "district_code": 361,
+    "safety_score": 4.1,
+    "breakdown": {
+      "violentCrimes": 3.9,
+      "theftCrimes": 6.6,
+      "harassmentCrimes": 0,
+      "publicSafety": 5.9
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Koraput",
+    "district_code": 363,
+    "safety_score": 5.5,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 7.8,
+      "harassmentCrimes": 0,
+      "publicSafety": 5.1
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Nuapada",
+    "district_code": 368,
+    "safety_score": 4.7,
+    "breakdown": {
+      "violentCrimes": 5.1,
+      "theftCrimes": 9,
+      "harassmentCrimes": 0.6,
+      "publicSafety": 2.6
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Puri",
+    "district_code": 369,
+    "safety_score": 3,
+    "breakdown": {
+      "violentCrimes": 4.7,
+      "theftCrimes": 4,
+      "harassmentCrimes": 0,
+      "publicSafety": 3.4
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Sonepur",
+    "district_code": 372,
+    "safety_score": 5,
+    "breakdown": {
+      "violentCrimes": 9,
+      "theftCrimes": 6.8,
+      "harassmentCrimes": 2.7,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Odisha",
+    "state_code": 21,
+    "district_name": "Sundargarh",
+    "district_code": 373,
+    "safety_score": 6.6,
+    "breakdown": {
+      "violentCrimes": 7.7,
+      "theftCrimes": 7,
+      "harassmentCrimes": 5,
+      "publicSafety": 6.7
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Amritsar",
+    "district_code": 27,
+    "safety_score": 3.5,
+    "breakdown": {
+      "violentCrimes": 5.4,
+      "theftCrimes": 0.9,
+      "harassmentCrimes": 6.1,
+      "publicSafety": 1.9
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Barnala",
+    "district_code": 605,
+    "safety_score": 8.7,
+    "breakdown": {
+      "violentCrimes": 8.7,
+      "theftCrimes": 8.7,
+      "harassmentCrimes": 9.3,
+      "publicSafety": 8
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Faridkot",
+    "district_code": 29,
+    "safety_score": 8.8,
+    "breakdown": {
+      "violentCrimes": 9.1,
+      "theftCrimes": 9.1,
+      "harassmentCrimes": 9.4,
+      "publicSafety": 7
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Fatehgarh Sahib",
+    "district_code": 30,
+    "safety_score": 7.1,
+    "breakdown": {
+      "violentCrimes": 8.6,
+      "theftCrimes": 7.5,
+      "harassmentCrimes": 8.2,
+      "publicSafety": 3.4
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Fazilka",
+    "district_code": 651,
+    "safety_score": 5.2,
+    "breakdown": {
+      "violentCrimes": 3.4,
+      "theftCrimes": 7.7,
+      "harassmentCrimes": 6.5,
+      "publicSafety": 2
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Ferozepur",
+    "district_code": 31,
+    "safety_score": 8.3,
+    "breakdown": {
+      "violentCrimes": 8.1,
+      "theftCrimes": 8.3,
+      "harassmentCrimes": 9.1,
+      "publicSafety": 7.5
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Gurdaspur",
+    "district_code": 32,
+    "safety_score": 8.7,
+    "breakdown": {
+      "violentCrimes": 9.3,
+      "theftCrimes": 9.3,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 5.7
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Hoshiarpur",
+    "district_code": 33,
+    "safety_score": 7.3,
+    "breakdown": {
+      "violentCrimes": 7.3,
+      "theftCrimes": 7.6,
+      "harassmentCrimes": 9,
+      "publicSafety": 4.8
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Jalandhar",
+    "district_code": 34,
+    "safety_score": 5.2,
+    "breakdown": {
+      "violentCrimes": 7.9,
+      "theftCrimes": 2.8,
+      "harassmentCrimes": 7.9,
+      "publicSafety": 2.3
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Kapurthala",
+    "district_code": 35,
+    "safety_score": 7.3,
+    "breakdown": {
+      "violentCrimes": 7.5,
+      "theftCrimes": 7,
+      "harassmentCrimes": 8.5,
+      "publicSafety": 6.1
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Ludhiana",
+    "district_code": 36,
+    "safety_score": 8.6,
+    "breakdown": {
+      "violentCrimes": 8.7,
+      "theftCrimes": 8.7,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 7
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Patiala",
+    "district_code": 41,
+    "safety_score": 8.4,
+    "breakdown": {
+      "violentCrimes": 9.8,
+      "theftCrimes": 5.5,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.4
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Rupnagar",
+    "district_code": 42,
+    "safety_score": 8.3,
+    "breakdown": {
+      "violentCrimes": 8.8,
+      "theftCrimes": 8.9,
+      "harassmentCrimes": 8.4,
+      "publicSafety": 6.6
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "S.A.S Nagar",
+    "district_code": 608,
+    "safety_score": 8.8,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 4.1
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Sangrur",
+    "district_code": 43,
+    "safety_score": 7.2,
+    "breakdown": {
+      "violentCrimes": 7,
+      "theftCrimes": 7.4,
+      "harassmentCrimes": 9.3,
+      "publicSafety": 4.4
+    }
+  },
+  {
+    "state_name": "Punjab",
+    "state_code": 3,
+    "district_name": "Tarn Taran",
+    "district_code": 609,
+    "safety_score": 5.3,
+    "breakdown": {
+      "violentCrimes": 6,
+      "theftCrimes": 7.2,
+      "harassmentCrimes": 6.5,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Ajmer",
+    "district_code": 86,
+    "safety_score": 1,
+    "breakdown": {
+      "violentCrimes": 3.8,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Alwar",
+    "district_code": 87,
+    "safety_score": 0,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Banswara",
+    "district_code": 88,
+    "safety_score": 3.6,
+    "breakdown": {
+      "violentCrimes": 3.1,
+      "theftCrimes": 5.7,
+      "harassmentCrimes": 1.7,
+      "publicSafety": 3.4
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Baran",
+    "district_code": 89,
+    "safety_score": 0.2,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0.6,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Barmer",
+    "district_code": 90,
+    "safety_score": 0,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Bharatpur",
+    "district_code": 91,
+    "safety_score": 2.6,
+    "breakdown": {
+      "violentCrimes": 3.3,
+      "theftCrimes": 0,
+      "harassmentCrimes": 7.2,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Bikaner",
+    "district_code": 93,
+    "safety_score": 2.7,
+    "breakdown": {
+      "violentCrimes": 3.3,
+      "theftCrimes": 5.1,
+      "harassmentCrimes": 1.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Bundi",
+    "district_code": 94,
+    "safety_score": 4.5,
+    "breakdown": {
+      "violentCrimes": 5.8,
+      "theftCrimes": 7.2,
+      "harassmentCrimes": 0,
+      "publicSafety": 4.6
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Chittorgarh",
+    "district_code": 95,
+    "safety_score": 2.6,
+    "breakdown": {
+      "violentCrimes": 6.5,
+      "theftCrimes": 1.2,
+      "harassmentCrimes": 2.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Dungarpur",
+    "district_code": 99,
+    "safety_score": 6.2,
+    "breakdown": {
+      "violentCrimes": 6.1,
+      "theftCrimes": 8.2,
+      "harassmentCrimes": 3.6,
+      "publicSafety": 6.6
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Ganganagar",
+    "district_code": 100,
+    "safety_score": 3.9,
+    "breakdown": {
+      "violentCrimes": 5.5,
+      "theftCrimes": 6.4,
+      "harassmentCrimes": 2.7,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Hanumangarh",
+    "district_code": 101,
+    "safety_score": 3.1,
+    "breakdown": {
+      "violentCrimes": 4,
+      "theftCrimes": 6.5,
+      "harassmentCrimes": 0.4,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Jaipur",
+    "district_code": 102,
+    "safety_score": 2.5,
+    "breakdown": {
+      "violentCrimes": 7.1,
+      "theftCrimes": 0,
+      "harassmentCrimes": 2.9,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Jaisalmer",
+    "district_code": 103,
+    "safety_score": 7.1,
+    "breakdown": {
+      "violentCrimes": 9.2,
+      "theftCrimes": 7.9,
+      "harassmentCrimes": 4.6,
+      "publicSafety": 6.5
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Jodhpur",
+    "district_code": 107,
+    "safety_score": 1.6,
+    "breakdown": {
+      "violentCrimes": 6.2,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Kota",
+    "district_code": 109,
+    "safety_score": 2.9,
+    "breakdown": {
+      "violentCrimes": 5.3,
+      "theftCrimes": 5.1,
+      "harassmentCrimes": 0,
+      "publicSafety": 0.2
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Pratapgarh",
+    "district_code": 629,
+    "safety_score": 4.8,
+    "breakdown": {
+      "violentCrimes": 5.1,
+      "theftCrimes": 7.3,
+      "harassmentCrimes": 2.4,
+      "publicSafety": 3.9
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Rajsamand",
+    "district_code": 112,
+    "safety_score": 4.2,
+    "breakdown": {
+      "violentCrimes": 6.9,
+      "theftCrimes": 4.4,
+      "harassmentCrimes": 3.2,
+      "publicSafety": 1.6
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Sawai Madhopur",
+    "district_code": 113,
+    "safety_score": 4.5,
+    "breakdown": {
+      "violentCrimes": 7.2,
+      "theftCrimes": 3.3,
+      "harassmentCrimes": 4.3,
+      "publicSafety": 3.4
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Sikar",
+    "district_code": 114,
+    "safety_score": 2.1,
+    "breakdown": {
+      "violentCrimes": 5.7,
+      "theftCrimes": 0.3,
+      "harassmentCrimes": 2.1,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Sirohi",
+    "district_code": 115,
+    "safety_score": 4.1,
+    "breakdown": {
+      "violentCrimes": 6,
+      "theftCrimes": 5.6,
+      "harassmentCrimes": 1.8,
+      "publicSafety": 2.3
+    }
+  },
+  {
+    "state_name": "Rajasthan",
+    "state_code": 8,
+    "district_name": "Tonk",
+    "district_code": 116,
+    "safety_score": 7.6,
+    "breakdown": {
+      "violentCrimes": 6.4,
+      "theftCrimes": 6.9,
+      "harassmentCrimes": 8.2,
+      "publicSafety": 9.4
+    }
+  },
+  {
+    "state_name": "Sikkim",
+    "state_code": 11,
+    "district_name": "Gyalshing",
+    "district_code": 228,
+    "safety_score": 9.8,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 10,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 9.5
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Ariyalur",
+    "district_code": 610,
+    "safety_score": 9.4,
+    "breakdown": {
+      "violentCrimes": 9.1,
+      "theftCrimes": 9.6,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 9.1
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Chennai",
+    "district_code": 568,
+    "safety_score": 3.2,
+    "breakdown": {
+      "violentCrimes": 5.4,
+      "theftCrimes": 0,
+      "harassmentCrimes": 7.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Dharmapuri",
+    "district_code": 571,
+    "safety_score": 7.4,
+    "breakdown": {
+      "violentCrimes": 8,
+      "theftCrimes": 6.2,
+      "harassmentCrimes": 8.4,
+      "publicSafety": 7.1
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Kallakurichi",
+    "district_code": 729,
+    "safety_score": 8.9,
+    "breakdown": {
+      "violentCrimes": 9.1,
+      "theftCrimes": 8.6,
+      "harassmentCrimes": 9.2,
+      "publicSafety": 8.8
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Kanchipuram",
+    "district_code": 574,
+    "safety_score": 7.7,
+    "breakdown": {
+      "violentCrimes": 8.5,
+      "theftCrimes": 5.9,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 7.1
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Karur",
+    "district_code": 576,
+    "safety_score": 8.9,
+    "breakdown": {
+      "violentCrimes": 9.5,
+      "theftCrimes": 8,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 8.5
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Madurai",
+    "district_code": 578,
+    "safety_score": 7.1,
+    "breakdown": {
+      "violentCrimes": 8.3,
+      "theftCrimes": 6.5,
+      "harassmentCrimes": 8.5,
+      "publicSafety": 5
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Ramanathapuram",
+    "district_code": 583,
+    "safety_score": 5.8,
+    "breakdown": {
+      "violentCrimes": 7.1,
+      "theftCrimes": 5,
+      "harassmentCrimes": 7.7,
+      "publicSafety": 2.9
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Ranipet",
+    "district_code": 731,
+    "safety_score": 9.2,
+    "breakdown": {
+      "violentCrimes": 9.4,
+      "theftCrimes": 8.9,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 8.9
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Salem",
+    "district_code": 584,
+    "safety_score": 7.7,
+    "breakdown": {
+      "violentCrimes": 9,
+      "theftCrimes": 7.8,
+      "harassmentCrimes": 6.5,
+      "publicSafety": 7.3
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Sivaganga",
+    "district_code": 585,
+    "safety_score": 8.2,
+    "breakdown": {
+      "violentCrimes": 8.7,
+      "theftCrimes": 7.6,
+      "harassmentCrimes": 9.7,
+      "publicSafety": 6.5
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "The Nilgiris",
+    "district_code": 587,
+    "safety_score": 9.3,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 9.3,
+      "harassmentCrimes": 9.4,
+      "publicSafety": 8.9
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Thiruvallur",
+    "district_code": 589,
+    "safety_score": 8.4,
+    "breakdown": {
+      "violentCrimes": 8.9,
+      "theftCrimes": 7.5,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 7.2
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Thiruvarur",
+    "district_code": 590,
+    "safety_score": 8.8,
+    "breakdown": {
+      "violentCrimes": 9.4,
+      "theftCrimes": 8.2,
+      "harassmentCrimes": 9.2,
+      "publicSafety": 8.3
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Tiruchirappalli",
+    "district_code": 591,
+    "safety_score": 8.3,
+    "breakdown": {
+      "violentCrimes": 9.9,
+      "theftCrimes": 4.5,
+      "harassmentCrimes": 10,
+      "publicSafety": 9.9
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Tuticorin",
+    "district_code": 594,
+    "safety_score": 2.9,
+    "breakdown": {
+      "violentCrimes": 5.1,
+      "theftCrimes": 0,
+      "harassmentCrimes": 6.5,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "state_code": 33,
+    "district_name": "Villupuram",
+    "district_code": 596,
+    "safety_score": 6,
+    "breakdown": {
+      "violentCrimes": 7.4,
+      "theftCrimes": 4.9,
+      "harassmentCrimes": 7.3,
+      "publicSafety": 4.5
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Adilabad",
+    "district_code": 501,
+    "safety_score": 8.4,
+    "breakdown": {
+      "violentCrimes": 9.2,
+      "theftCrimes": 8.8,
+      "harassmentCrimes": 9,
+      "publicSafety": 6.1
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Bhadradri Kothagudem",
+    "district_code": 690,
+    "safety_score": 7,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 8.4,
+      "harassmentCrimes": 5.4,
+      "publicSafety": 5.4
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Jagitial",
+    "district_code": 681,
+    "safety_score": 5.1,
+    "breakdown": {
+      "violentCrimes": 7,
+      "theftCrimes": 7.5,
+      "harassmentCrimes": 4.4,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Jogulamba Gadwal",
+    "district_code": 695,
+    "safety_score": 5.2,
+    "breakdown": {
+      "violentCrimes": 8.8,
+      "theftCrimes": 4.9,
+      "harassmentCrimes": 6.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Mahabubabad",
+    "district_code": 688,
+    "safety_score": 6.5,
+    "breakdown": {
+      "violentCrimes": 9.2,
+      "theftCrimes": 8.8,
+      "harassmentCrimes": 5.5,
+      "publicSafety": 1.1
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Nagarkurnool",
+    "district_code": 694,
+    "safety_score": 8.6,
+    "breakdown": {
+      "violentCrimes": 9.2,
+      "theftCrimes": 8.9,
+      "harassmentCrimes": 8.3,
+      "publicSafety": 7.5
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Nalgonda",
+    "district_code": 514,
+    "safety_score": 4.9,
+    "breakdown": {
+      "violentCrimes": 8.2,
+      "theftCrimes": 8,
+      "harassmentCrimes": 1.9,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Nizamabad",
+    "district_code": 516,
+    "safety_score": 2.3,
+    "breakdown": {
+      "violentCrimes": 6.9,
+      "theftCrimes": 0.6,
+      "harassmentCrimes": 1.5,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Peddapalli",
+    "district_code": 682,
+    "safety_score": 4.9,
+    "breakdown": {
+      "violentCrimes": 7.8,
+      "theftCrimes": 6.8,
+      "harassmentCrimes": 3.5,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Wanaparthy",
+    "district_code": 693,
+    "safety_score": 8.6,
+    "breakdown": {
+      "violentCrimes": 9.5,
+      "theftCrimes": 8.5,
+      "harassmentCrimes": 8.5,
+      "publicSafety": 7.8
+    }
+  },
+  {
+    "state_name": "Telangana",
+    "state_code": 36,
+    "district_name": "Warangal",
+    "district_code": 522,
+    "safety_score": 4.6,
+    "breakdown": {
+      "violentCrimes": 7.3,
+      "theftCrimes": 7.3,
+      "harassmentCrimes": 2.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "The Dadra And Nagar Haveli And Daman And Diu",
+    "state_code": 38,
+    "district_name": "Dadra And Nagar Haveli",
+    "district_code": 465,
+    "safety_score": 9.7,
+    "breakdown": {
+      "violentCrimes": 9.8,
+      "theftCrimes": 9.6,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.4
+    }
+  },
+  {
+    "state_name": "The Dadra And Nagar Haveli And Daman And Diu",
+    "state_code": 38,
+    "district_name": "Daman",
+    "district_code": 463,
+    "safety_score": 9.5,
+    "breakdown": {
+      "violentCrimes": 9.8,
+      "theftCrimes": 9.5,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 8.6
+    }
+  },
+  {
+    "state_name": "Tripura",
+    "state_code": 16,
+    "district_name": "Gomati",
+    "district_code": 654,
+    "safety_score": 9.3,
+    "breakdown": {
+      "violentCrimes": 8.7,
+      "theftCrimes": 9.6,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 9.3
+    }
+  },
+  {
+    "state_name": "Tripura",
+    "state_code": 16,
+    "district_name": "Khowai",
+    "district_code": 652,
+    "safety_score": 9.6,
+    "breakdown": {
+      "violentCrimes": 9,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.7
+    }
+  },
+  {
+    "state_name": "Tripura",
+    "state_code": 16,
+    "district_name": "West Tripura",
+    "district_code": 272,
+    "safety_score": 10,
+    "breakdown": {
+      "violentCrimes": 10,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 10,
+      "publicSafety": 10
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Amethi",
+    "district_code": 640,
+    "safety_score": 7,
+    "breakdown": {
+      "violentCrimes": 5.8,
+      "theftCrimes": 7.9,
+      "harassmentCrimes": 6.2,
+      "publicSafety": 8
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Amroha",
+    "district_code": 154,
+    "safety_score": 7.5,
+    "breakdown": {
+      "violentCrimes": 7.1,
+      "theftCrimes": 6.3,
+      "harassmentCrimes": 8.2,
+      "publicSafety": 8.8
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Auraiya",
+    "district_code": 122,
+    "safety_score": 6.8,
+    "breakdown": {
+      "violentCrimes": 7.2,
+      "theftCrimes": 6.9,
+      "harassmentCrimes": 6.3,
+      "publicSafety": 7
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Ayodhya",
+    "district_code": 140,
+    "safety_score": 0.6,
+    "breakdown": {
+      "violentCrimes": 0.3,
+      "theftCrimes": 1.7,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Azamgarh",
+    "district_code": 123,
+    "safety_score": 2.1,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 4.3,
+      "harassmentCrimes": 3.2,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Bahraich",
+    "district_code": 125,
+    "safety_score": 4.1,
+    "breakdown": {
+      "violentCrimes": 2.5,
+      "theftCrimes": 5.3,
+      "harassmentCrimes": 1.9,
+      "publicSafety": 7.1
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Banda",
+    "district_code": 128,
+    "safety_score": 2.4,
+    "breakdown": {
+      "violentCrimes": 1.6,
+      "theftCrimes": 4.8,
+      "harassmentCrimes": 0,
+      "publicSafety": 2.9
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Budaun",
+    "district_code": 133,
+    "safety_score": 2.4,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 5.3,
+      "harassmentCrimes": 0,
+      "publicSafety": 3.8
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Bulandshahr",
+    "district_code": 134,
+    "safety_score": 0.2,
+    "breakdown": {
+      "violentCrimes": 0.7,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Etawah",
+    "district_code": 139,
+    "safety_score": 1,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0.4,
+      "harassmentCrimes": 3.4,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Gautam Buddha Nagar",
+    "district_code": 144,
+    "safety_score": 0.7,
+    "breakdown": {
+      "violentCrimes": 2.9,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Gorakhpur",
+    "district_code": 148,
+    "safety_score": 0,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Hamirpur",
+    "district_code": 149,
+    "safety_score": 7.7,
+    "breakdown": {
+      "violentCrimes": 8.3,
+      "theftCrimes": 8.7,
+      "harassmentCrimes": 5.9,
+      "publicSafety": 7.7
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Hardoi",
+    "district_code": 150,
+    "safety_score": 2.4,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 7,
+      "harassmentCrimes": 0,
+      "publicSafety": 1.7
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Jalaun",
+    "district_code": 151,
+    "safety_score": 6.4,
+    "breakdown": {
+      "violentCrimes": 8.4,
+      "theftCrimes": 6.8,
+      "harassmentCrimes": 8.2,
+      "publicSafety": 1
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Jaunpur",
+    "district_code": 152,
+    "safety_score": 4.6,
+    "breakdown": {
+      "violentCrimes": 5.4,
+      "theftCrimes": 5.3,
+      "harassmentCrimes": 2.7,
+      "publicSafety": 5.1
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Jhansi",
+    "district_code": 153,
+    "safety_score": 1.8,
+    "breakdown": {
+      "violentCrimes": 2,
+      "theftCrimes": 2.4,
+      "harassmentCrimes": 0,
+      "publicSafety": 2.8
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Kannauj",
+    "district_code": 155,
+    "safety_score": 4.2,
+    "breakdown": {
+      "violentCrimes": 4.7,
+      "theftCrimes": 5.7,
+      "harassmentCrimes": 0,
+      "publicSafety": 6.7
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Kasganj",
+    "district_code": 633,
+    "safety_score": 3.4,
+    "breakdown": {
+      "violentCrimes": 2.9,
+      "theftCrimes": 4.6,
+      "harassmentCrimes": 0,
+      "publicSafety": 6.7
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Kaushambi",
+    "district_code": 158,
+    "safety_score": 7,
+    "breakdown": {
+      "violentCrimes": 7.4,
+      "theftCrimes": 7.9,
+      "harassmentCrimes": 6.9,
+      "publicSafety": 5
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Kushinagar",
+    "district_code": 160,
+    "safety_score": 3.3,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 5.9,
+      "harassmentCrimes": 6.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Lalitpur",
+    "district_code": 161,
+    "safety_score": 8.3,
+    "breakdown": {
+      "violentCrimes": 8.2,
+      "theftCrimes": 9.1,
+      "harassmentCrimes": 8.3,
+      "publicSafety": 7
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Lucknow",
+    "district_code": 162,
+    "safety_score": 6.6,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 0,
+      "harassmentCrimes": 8.9,
+      "publicSafety": 9.7
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Mathura",
+    "district_code": 167,
+    "safety_score": 1.2,
+    "breakdown": {
+      "violentCrimes": 4.6,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Mau",
+    "district_code": 168,
+    "safety_score": 3.7,
+    "breakdown": {
+      "violentCrimes": 6.5,
+      "theftCrimes": 5.4,
+      "harassmentCrimes": 1.9,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Pilibhit",
+    "district_code": 173,
+    "safety_score": 5.9,
+    "breakdown": {
+      "violentCrimes": 6.6,
+      "theftCrimes": 7.3,
+      "harassmentCrimes": 3.8,
+      "publicSafety": 5.5
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Rae Bareli",
+    "district_code": 175,
+    "safety_score": 5.5,
+    "breakdown": {
+      "violentCrimes": 5.2,
+      "theftCrimes": 5.7,
+      "harassmentCrimes": 10,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Rampur",
+    "district_code": 176,
+    "safety_score": 7.5,
+    "breakdown": {
+      "violentCrimes": 7,
+      "theftCrimes": 7.7,
+      "harassmentCrimes": 6.6,
+      "publicSafety": 8.9
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Sambhal",
+    "district_code": 659,
+    "safety_score": 5.9,
+    "breakdown": {
+      "violentCrimes": 3.9,
+      "theftCrimes": 6.4,
+      "harassmentCrimes": 6.5,
+      "publicSafety": 7
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Siddharthnagar",
+    "district_code": 182,
+    "safety_score": 8.7,
+    "breakdown": {
+      "violentCrimes": 9.3,
+      "theftCrimes": 9.1,
+      "harassmentCrimes": 7.5,
+      "publicSafety": 8.6
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Unnao",
+    "district_code": 186,
+    "safety_score": 3.5,
+    "breakdown": {
+      "violentCrimes": 6.2,
+      "theftCrimes": 5.5,
+      "harassmentCrimes": 1.3,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "state_code": 9,
+    "district_name": "Varanasi",
+    "district_code": 187,
+    "safety_score": 0.2,
+    "breakdown": {
+      "violentCrimes": 0.9,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttarakhand",
+    "state_code": 5,
+    "district_name": "Bageshwar",
+    "district_code": 46,
+    "safety_score": 9.7,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 9.5
+    }
+  },
+  {
+    "state_name": "Uttarakhand",
+    "state_code": 5,
+    "district_name": "Champawat",
+    "district_code": 48,
+    "safety_score": 9.8,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.9,
+      "publicSafety": 9.6
+    }
+  },
+  {
+    "state_name": "Uttarakhand",
+    "state_code": 5,
+    "district_name": "Dehradun",
+    "district_code": 49,
+    "safety_score": 5,
+    "breakdown": {
+      "violentCrimes": 7.5,
+      "theftCrimes": 5,
+      "harassmentCrimes": 5.3,
+      "publicSafety": 1.5
+    }
+  },
+  {
+    "state_name": "Uttarakhand",
+    "state_code": 5,
+    "district_name": "Nainital",
+    "district_code": 51,
+    "safety_score": 5.8,
+    "breakdown": {
+      "violentCrimes": 7.5,
+      "theftCrimes": 7.6,
+      "harassmentCrimes": 4.3,
+      "publicSafety": 3
+    }
+  },
+  {
+    "state_name": "Uttarakhand",
+    "state_code": 5,
+    "district_name": "Pauri Garhwal",
+    "district_code": 52,
+    "safety_score": 9.4,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 9.6,
+      "harassmentCrimes": 9.8,
+      "publicSafety": 8.2
+    }
+  },
+  {
+    "state_name": "Uttarakhand",
+    "state_code": 5,
+    "district_name": "Tehri Garhwal",
+    "district_code": 55,
+    "safety_score": 9.7,
+    "breakdown": {
+      "violentCrimes": 9.7,
+      "theftCrimes": 9.8,
+      "harassmentCrimes": 10,
+      "publicSafety": 9
+    }
+  },
+  {
+    "state_name": "Uttarakhand",
+    "state_code": 5,
+    "district_name": "Udam Singh Nagar",
+    "district_code": 56,
+    "safety_score": 4.1,
+    "breakdown": {
+      "violentCrimes": 6.7,
+      "theftCrimes": 3.9,
+      "harassmentCrimes": 5,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "Uttarakhand",
+    "state_code": 5,
+    "district_name": "Uttar Kashi",
+    "district_code": 57,
+    "safety_score": 9.6,
+    "breakdown": {
+      "violentCrimes": 9.6,
+      "theftCrimes": 9.9,
+      "harassmentCrimes": 9.2,
+      "publicSafety": 9.5
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Bankura",
+    "district_code": 305,
+    "safety_score": 6,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 8.8,
+      "harassmentCrimes": 7.5,
+      "publicSafety": 7.4
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Cooch Behar",
+    "district_code": 308,
+    "safety_score": 4,
+    "breakdown": {
+      "violentCrimes": 2.7,
+      "theftCrimes": 4.9,
+      "harassmentCrimes": 6.4,
+      "publicSafety": 1.1
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Darjeeling",
+    "district_code": 309,
+    "safety_score": 4.1,
+    "breakdown": {
+      "violentCrimes": 5.4,
+      "theftCrimes": 4.1,
+      "harassmentCrimes": 6.2,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Hooghly",
+    "district_code": 312,
+    "safety_score": 7.9,
+    "breakdown": {
+      "violentCrimes": 9.1,
+      "theftCrimes": 8.9,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 2.8
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Howrah",
+    "district_code": 313,
+    "safety_score": 0,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Malda",
+    "district_code": 316,
+    "safety_score": 3.1,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 4.1,
+      "harassmentCrimes": 2.7,
+      "publicSafety": 6.1
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Murshidabad",
+    "district_code": 319,
+    "safety_score": 4.1,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 6.7,
+      "harassmentCrimes": 5.4,
+      "publicSafety": 3.9
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Nadia",
+    "district_code": 320,
+    "safety_score": 8,
+    "breakdown": {
+      "violentCrimes": 7.9,
+      "theftCrimes": 9,
+      "harassmentCrimes": 8.8,
+      "publicSafety": 6
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "North 24 Parganas",
+    "district_code": 303,
+    "safety_score": 0,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 0,
+      "harassmentCrimes": 0,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Paschim Medinipur",
+    "district_code": 318,
+    "safety_score": 1.3,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 1.1,
+      "harassmentCrimes": 0,
+      "publicSafety": 4.7
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Purba Bardhaman",
+    "district_code": 306,
+    "safety_score": 4.1,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 7.4,
+      "harassmentCrimes": 7.6,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "South 24 Parganas",
+    "district_code": 304,
+    "safety_score": 3.8,
+    "breakdown": {
+      "violentCrimes": 0,
+      "theftCrimes": 5.3,
+      "harassmentCrimes": 8.9,
+      "publicSafety": 0
+    }
+  },
+  {
+    "state_name": "West Bengal",
+    "state_code": 19,
+    "district_name": "Uttar Dinajpur",
+    "district_code": 311,
+    "safety_score": 7.2,
+    "breakdown": {
+      "violentCrimes": 1.2,
+      "theftCrimes": 8.7,
+      "harassmentCrimes": 9.6,
+      "publicSafety": 9.3
+    }
+  }
+]
