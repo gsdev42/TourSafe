@@ -1,5 +1,6 @@
 package com.toursafe.modules
-
+import org.tensorflow.lite.Interpreter
+import org.tensorflow.lite.support.common.FileUtil
 import android.content.Context
 import android.hardware.Sensor
 import android.hardware.SensorEvent
@@ -15,7 +16,6 @@ import com.facebook.react.bridge.ReadableArray
 import com.facebook.react.bridge.WritableMap
 import com.facebook.react.bridge.Arguments
 import com.facebook.react.modules.core.DeviceEventManagerModule
-import org.tensorflow.lite.Interpreter as TFLiteInterpreter
 import java.io.FileInputStream
 import java.nio.MappedByteBuffer
 import java.nio.channels.FileChannel
@@ -31,7 +31,7 @@ class TensorFlowModule(reactContext: ReactApplicationContext) :
         private const val TAG = "TensorFlowModule"  // ✅ Add this
     }
 
-    private var interpreter: TFLiteInterpreter? = null
+    private var interpreter: Interpreter? = null
     private var sensorManager: SensorManager? = null
     private var accelerometer: Sensor? = null
     private var gyroscope: Sensor? = null
@@ -66,7 +66,7 @@ class TensorFlowModule(reactContext: ReactApplicationContext) :
             
             // Load TFLite model
             val modelFile = loadModelFile("models/sk_mlp_converted.tflite")
-            interpreter = TFLiteInterpreter(modelFile)
+            interpreter = Interpreter(modelFile)
             
             // Load metadata for feature scaling
             loadModelMetadata()
@@ -344,11 +344,7 @@ class TensorFlowModule(reactContext: ReactApplicationContext) :
     }
 
     private fun loadModelFile(modelPath: String): MappedByteBuffer {
-        val assetFileDescriptor = reactApplicationContext.assets.openFd(modelPath)
-        val fileChannel = FileInputStream(assetFileDescriptor.fileDescriptor).channel
-        val startOffset = assetFileDescriptor.startOffset
-        val declaredLength = assetFileDescriptor.declaredLength
-        return fileChannel.map(FileChannel.MapMode.READ_ONLY, startOffset, declaredLength)
+        return FileUtil.loadMappedFile(reactApplicationContext, modelPath)
     }
 
     private fun loadModelMetadata() {
